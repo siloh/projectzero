@@ -1,0 +1,159 @@
+ body { 
+		background-color:#d1fffd;
+		font-family:MV Boli;}
+	
+	h1 {
+		color:#b93286;
+		text-align:center;
+		background-color: #1e0d1f;
+		font-family:forte;}
+	
+	h2 {
+		text-align:center;
+		color:##b93286;}
+		
+	h3 {
+		text-align:center;
+		color:#62211b;}
+		
+	
+	p { color:#000000;
+	text-align:left;}
+
+		
+		
+		ul {
+			color:#000000;
+		text-align:left;}
+		
+			ol {
+			color:#000000;
+		text-align:left;}
+	
+	address {
+		color:#feffef;
+		text-align:center;
+		font-size: 150%;}
+	
+	#container {
+		width:1000px;
+		margin-left:auto;
+		margin-right:auto;
+		border: 10px solid #1e0d1f;
+			background-color: #ffffff;}
+		
+		
+				#main {
+		width:585px;
+		float:right;
+		border: 10px solid #1e0d1f;
+		background-color: #58d8c9;
+		text-align:center;	
+		margin-right:50px;
+		  padding: 0px;}
+		  
+		  		
+				#centeredmain {
+		width:585px;
+		border: 10px solid #1e0d1f;
+		background-color: #58d8c9;
+		text-align:center;	
+		margin-right:auto;
+		margin-left:auto;
+		  padding: 0px;}
+				
+						#nav{
+		width:270px;
+		float:left;
+		border: 10px solid #58d8c9;
+		background-color: #1e0d1f;
+		text-align:center;	}
+							
+
+			
+						#footer{
+		margin-right:auto;
+		margin-left:auto;
+		clear:both;
+		margin-bottom:10px;
+		border: 10px solid #1e0d1f;
+			background-color:#58d8c9;
+			text-align:center;
+			}
+	
+			
+
+					#link {
+		width:990px;
+		float:none;
+	background-color: #136966;
+	text-align: center;
+	border: 8px solid #58d8c9;
+}
+
+
+				#gal {
+		width:400px;
+		border: 10px solid #1e0d1f;
+		background-color: #58d8c9;
+		text-align:center;	
+		margin-right:auto;
+		margin-left:auto;
+		  padding: 0px;}
+		  
+		  				#textbox {
+		width:400px;
+		border: 0px solid #1e0d1f;
+		background-color: #58d8c9;
+		text-align:center;	
+		margin-right:auto;
+		margin-left:150px;
+		  padding: 0px;}
+
+			
+a:link {
+    color:#057771;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #057771;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #057771;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: underline;
+}		
+			
+	table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #170323;
+    text-align: left;
+    padding: 8px;
+}
+
+tr{
+	background-color:#d1fffd;
+	
+}
+tr:nth-child(even) {
+    background-color: #d1fffd		;
+}
+	tr.error {
+    background-color: #58d8c9;
+}
+
+
+

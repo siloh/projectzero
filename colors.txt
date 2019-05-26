@@ -1,0 +1,5 @@
+#1e0d1f- dark purple
+#8c2425- dark red
+#e9262c - bight red
+#1a9a8b - light blue
+#136966- dark blue
